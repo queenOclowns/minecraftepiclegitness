@@ -5,6 +5,11 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "09510fabc48d5619e9cb3cac31d2d95afa4720055133de11d8573ff15f115f8f"
 metafile = true
@@ -166,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "132fda905bbc3e8f6b2efe0ffdf8411318cd9143b7d6f5a66eb08e54a1dd252c"
+hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
 metafile = true
 
 [[files]]
@@ -176,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3441cb2e0219c0a959c010bc73e5a29354de8b6055db5359eb41f0ced473ef4"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
 
 [[files]]
@@ -205,6 +210,11 @@ hash = "41850b618156f9bd79bc245901a022244b0020c9de3136277514f5447ba23f0d"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "cfa2cbd200e091015bed6456362100e6ff40001e8be8ada86494434f3c215784"
 metafile = true
@@ -227,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "5b9d4d26732e6caea0f782baa2bdff86ff4a53193c0baf236d755353b2b7dc5e"
-metafile = true
-
-[[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "d799514da5ff96ba3428bf223beeaff46962fe1783a98fc6a3848bbde7d38ba5"
 metafile = true
 
 [[files]]
