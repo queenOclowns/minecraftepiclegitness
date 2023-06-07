@@ -1,0 +1,13 @@
+name = "queensuperawesome"
+author = "queen"
+version = "1.19.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e04f919a5d177d04e717af6faad6ba798fab622718dd721d43b900b2b6f83af"
+
+[versions]
+fabric = "0.11.2"
+minecraft = "1.19.4"
