@@ -1,0 +1,13 @@
+name = "BlockMeterFabric"
+filename = "blockmeter-1.9.1-HEAD.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc15043ff7330cf4064b1576602fad5f389a4bef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4467421
+project-id = 369343

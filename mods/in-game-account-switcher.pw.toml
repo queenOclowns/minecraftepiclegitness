@@ -1,0 +1,13 @@
+name = "In-Game Account Switcher"
+filename = "InGameAccountSwitcher-Fabric-1.19-8.0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7c18fa4a3e6d5085f8cecbe85da1e0fbf5630be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4453670
+project-id = 232676
