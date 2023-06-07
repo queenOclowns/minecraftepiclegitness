@@ -305,11 +305,6 @@ hash = "46886a9d60e7e372ce1f2474d6f047aaaa46b13fd07090a4aa9b51a9776610fa"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "031e22624a407085bda44e3e043d626458467aa4d9bb1f7b7efb9340d156cc77"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "195a9c0560556059203afdb82f818904765db4a40a1fe5dd016a40286262cdbd"
 metafile = true
@@ -332,11 +327,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "a1688fb1a33db2f9962b351ca91cc14f146f9080145842c543ccb7f672f1c1c9"
 metafile = true
 
 [[files]]
