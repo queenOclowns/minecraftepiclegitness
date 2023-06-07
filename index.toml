@@ -125,11 +125,6 @@ hash = "55664c3774dde6f107c95c3bca5f5b5e40161b562645ec50c587fa041dcef0ee"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "93397b7b44357b1be556e906a26a1d5a8178e306a28263122018419e76b93bcb"
-metafile = true
-
-[[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
 hash = "93418957ad122c213b2353e1d0597fe0d4569bd0b966cf5443f915798a75f9b0"
 metafile = true
