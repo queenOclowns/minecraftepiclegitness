@@ -70,6 +70,11 @@ hash = "944bab38364e0a860178f53eca3b476673bdc47f942c7909a02bfebdf83c444b"
 metafile = true
 
 [[files]]
+file = "mods/boosted-brightness-fabric.pw.toml"
+hash = "06b0cce6a9f16c42b8ebfee3b4e2359986739b5ddba755d2fe236d920e6c4259"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "1f92c5502c261ae246c71e0eaf5557a3c14b31e6346676d2507ab794c5065228"
 metafile = true
