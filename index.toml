@@ -165,6 +165,11 @@ hash = "4abe2f719878f0ac44b288cd2804da49d487b9d5481fd0217bd396284bf43725"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e3441cb2e0219c0a959c010bc73e5a29354de8b6055db5359eb41f0ced473ef4"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
@@ -270,6 +275,11 @@ hash = "2c41b15468094950a9f2219fd53899ef7281dd56508324fde86cfe74f0be68fe"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "bfec205c34e7f07aa169d996cf7097f49b987738d0c6b7b29df262e0087e21a0"
+metafile = true
+
+[[files]]
 file = "mods/no-weather-effects.pw.toml"
 hash = "46886a9d60e7e372ce1f2474d6f047aaaa46b13fd07090a4aa9b51a9776610fa"
 metafile = true
@@ -297,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "4e404ee0cc69b69a3181226b7b4fc05cd648b1ec4891a6d4c0116457d804f09b"
 metafile = true
 
 [[files]]
