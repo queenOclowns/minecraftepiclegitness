@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3441cb2e0219c0a959c010bc73e5a29354de8b6055db5359eb41f0ced473ef4"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "3eef6e0ffd7a60cc6698865b3c2b46192dd334260c61d92ea65548918e2141ef"
+hash = "dcdf9b9adc7bb2b4af3cf0b655264aeec0d18bd5f43b4f0f49b19ef0cf2b893e"
 metafile = true
 
 [[files]]
