@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/boosted-brightness-fabric.pw.toml"
-hash = "06b0cce6a9f16c42b8ebfee3b4e2359986739b5ddba755d2fe236d920e6c4259"
+hash = "abaaf077a14399774db9e795e57dd72bde195d835eb5484a52ebaf82843a665f"
 metafile = true
 
 [[files]]
