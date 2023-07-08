@@ -165,6 +165,11 @@ hash = "1eb54073f789b107fb3ddacfca11c0ec23ab3da27eb15abff212f6031cecd88e"
 metafile = true
 
 [[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "6e0a06e460d37005e916123fdbe497aae252fc6c2dad0474191c5b6e3b004e3f"
+metafile = true
+
+[[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "6079c78bcba200ea11dce4d156f97a415ba4950124bc43bdbb97904e1bd072dd"
 metafile = true
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "bae4db7449280bbfc8d29c69f674c205ce1111ffbec215dd7f8edcfb2ea56467"
+metafile = true
+
+[[files]]
+file = "mods/waveycapes.pw.toml"
+hash = "7772701fbb43e8f6c2e5e2f5361d70b7a068a4da2ae0a786ec85c109db944a36"
 metafile = true
 
 [[files]]
