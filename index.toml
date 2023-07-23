@@ -385,11 +385,6 @@ hash = "bae4db7449280bbfc8d29c69f674c205ce1111ffbec215dd7f8edcfb2ea56467"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "7772701fbb43e8f6c2e5e2f5361d70b7a068a4da2ae0a786ec85c109db944a36"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "032d4c2c9ae2336575089ceebbee93b42611dbd35aceec0039a73e282591e847"
 metafile = true
