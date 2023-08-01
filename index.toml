@@ -365,6 +365,11 @@ hash = "b9ab8c63db893f407d8994face9efe231988508919cb1adb9f5991614b9c327e"
 metafile = true
 
 [[files]]
+file = "mods/souper-secret-settings.pw.toml"
+hash = "2539a54905c4ff6c55cd89c65dc9b4b995309d8c55029be89b40946cb0eea7b2"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
