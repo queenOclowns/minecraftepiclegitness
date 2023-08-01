@@ -235,6 +235,11 @@ hash = "5b9d4d26732e6caea0f782baa2bdff86ff4a53193c0baf236d755353b2b7dc5e"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "cf6adf4f1a4e8f56e592805ea37d1120b42ab5389da6f423040639cb229f48d0"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "643c811b11e38176537867bbc81bdac849a982120c30bbcc4ab27c637c67aad5"
 metafile = true
@@ -347,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "af0124542e550edfc344fe9f9f2d57f0f1637fa7128875f36b064fac379843ca"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
