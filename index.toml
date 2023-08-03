@@ -335,11 +335,6 @@ hash = "4e404ee0cc69b69a3181226b7b4fc05cd648b1ec4891a6d4c0116457d804f09b"
 metafile = true
 
 [[files]]
-file = "mods/smoke-suppression.pw.toml"
-hash = "10d145fd6f24f81e59fb8b5f9e42a2f6c734c1ca8203747388059557d6c7ab02"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "21749d96923c04571769031996ef649c790e796172060c7a027e2fabcad26c05"
 metafile = true
