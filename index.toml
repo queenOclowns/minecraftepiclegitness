@@ -80,11 +80,6 @@ hash = "abaaf077a14399774db9e795e57dd72bde195d835eb5484a52ebaf82843a665f"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "1f92c5502c261ae246c71e0eaf5557a3c14b31e6346676d2507ab794c5065228"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "ead5d9ec317da61b4b54ed5a5e08deddbf5ab7804eb1795b68807e9e7cece022"
 metafile = true
@@ -157,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
-metafile = true
-
-[[files]]
-file = "mods/edit-sign.pw.toml"
-hash = "1eb54073f789b107fb3ddacfca11c0ec23ab3da27eb15abff212f6031cecd88e"
 metafile = true
 
 [[files]]
@@ -290,18 +280,8 @@ hash = "b75a73f60e2cf020baa27e583d0c1426872e9b10c32e2f08431d15a6ee776eb0"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "2c41b15468094950a9f2219fd53899ef7281dd56508324fde86cfe74f0be68fe"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "bfec205c34e7f07aa169d996cf7097f49b987738d0c6b7b29df262e0087e21a0"
-metafile = true
-
-[[files]]
-file = "mods/no-weather-effects.pw.toml"
-hash = "46886a9d60e7e372ce1f2474d6f047aaaa46b13fd07090a4aa9b51a9776610fa"
 metafile = true
 
 [[files]]
@@ -337,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4e404ee0cc69b69a3181226b7b4fc05cd648b1ec4891a6d4c0116457d804f09b"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot.pw.toml"
-hash = "21749d96923c04571769031996ef649c790e796172060c7a027e2fabcad26c05"
 metafile = true
 
 [[files]]
