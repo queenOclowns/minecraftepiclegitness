@@ -80,6 +80,11 @@ hash = "abaaf077a14399774db9e795e57dd72bde195d835eb5484a52ebaf82843a665f"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "ead5d9ec317da61b4b54ed5a5e08deddbf5ab7804eb1795b68807e9e7cece022"
 metafile = true
