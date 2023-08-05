@@ -1,0 +1,13 @@
+name = "ResolutionControl+"
+filename = "resolution-control-plus-1.19.4-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rqTgDmc8/versions/NOZaClWm/resolution-control-plus-1.19.4-3.0.0.jar"
+hash-format = "sha1"
+hash = "1766a9597a91a3bbb9e657be9a52e9728d8a50cc"
+
+[update]
+[update.modrinth]
+mod-id = "rqTgDmc8"
+version = "NOZaClWm"

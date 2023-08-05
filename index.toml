@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "13f9bea475ff2f2e9aa733abc60de3253f99a2682be93d0a10dae45ceb56da70"
+hash = "e31cff42e6ee7a581f2fdf3a8dfacca2d330ea5b87ec68b7a3dc11cca6e7ea3b"
 metafile = true
 
 [[files]]
@@ -312,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c219a3b1989f828f056a60a00cf20e2254ad4eb577b63e1eedd6a694b018a81a"
+metafile = true
+
+[[files]]
+file = "mods/resolution-control-plus.pw.toml"
+hash = "5d1770d24ac1258c43f8df97d3c80b75d1591e25b9524f773e4389979b44d8d4"
 metafile = true
 
 [[files]]
